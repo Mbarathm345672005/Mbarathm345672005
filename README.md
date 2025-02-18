@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Barath M**
 
-🚀 Passionate about **Full Stack Web Development & Data Science** | 🎓 **B.Tech IT Student (2022-2026)** at Kingston Engineering College | 🏆 **Academic Rank Holder**
+🚀 Passionate about **Full Stack Web Development & Data Science** | 🎓 **B.Tech IT Student (2022-2026)** at Kingston Engineering College | 🏆 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mbarathm345672005&color=blue)
 
@@ -10,7 +10,7 @@
 
 - 💻 Enthusiastic **Programmer & Developer**
 - 📈 Data Science & Web Development Intern at **Brainwave Matrix & CodTechIT Solutions**
-- 📚 Continuous Learner | 🚀 Aspiring **Full-Stack Developer** **Data Science** **Machine Learning
+- 📚 Continuous Learner | 🚀 Aspiring **Full-Stack Developer**, **Data Science**, **Machine Learning**
 
 ## 🔗 Connect With Me
 
