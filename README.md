@@ -60,7 +60,7 @@
 * 💻 **[Personal Portfolio Website](https://mbarathportfolio.netlify.app)** — A premium, responsive React portfolio built with Vite and Tailwind CSS to showcase my skills, experience, and custom tools.
 * 🛡️ **[SmartContractAI](https://mark-sscmai.netlify.app/)** — End-to-end Contract Lifecycle Management system incorporating Ethereum blockchain SHA-256 anchoring for tamper-proof signing, and Groq Llama 3 AI for risk score assessment. *(React, Node, Solidity, Ethereum)*
 * 📦 **[SmartShelfx Inventory Portal](https://github.com/Mbarathm345672005/INFOSYS_SPRINGBOARD_BARATH_M_BATCH4_SMARTSHELFX_INVENTORY_MANAGEMENT)** — Demand prediction system that analyzes sales trends using machine learning linear regression and automatically drafts supplier purchase orders. *(React, Spring Boot, MongoDB, Python)*
-* 🎓 **[K SQUARE Academy LMS](https://ksquare-lms.netlify.app/)** — Freelanced learning and tuition management system supporting course management and automated student test reviews. *(React, Node, Express, MongoDB)*
+
 ---
 ## 🧠 Competitive Coding & Profiles
 - **LeetCode:** [Profile Link](https://leetcode.com/u/cNnxSomwbU/) — **600+** Solved | Max Streak: **270+ Days** | Global Rank: `< 140,000`
