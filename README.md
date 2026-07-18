@@ -67,9 +67,11 @@
 - **GeeksforGeeks:** [Profile Link](https://www.geeksforgeeks.org/user/mbaratjcn3/) — **140+** Solved | Coding Score: `400+`
 - **HackerRank:** [Profile Link](https://www.hackerrank.com/profile/mbarath6464) — **5 Stars** in Python | **4 Stars** in Java
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Mbarathm345672005&show_icons=true&theme=radical&count_private=true" alt="Barath's GitHub Stats" />
+  <br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mbarathm345672005&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Barath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mbarathm345672005&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbarathm345672005&layout=compact&theme=radical)
----
 🌟 *Thank you for checking out my profile! Feel free to explore my repositories or get in touch for collaborations!*
