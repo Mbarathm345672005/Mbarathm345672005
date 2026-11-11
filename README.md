@@ -1,7 +1,7 @@
 ![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 # 👋 Hi, I'm **Barath M**
 🚀 **Full Stack & Backend Developer | Machine Learning & Data Science Enthusiast**  
-🎓 **B.Tech in Information Technology Graduate (2022-2026)** | Kingston Engineering College (CGPA: 8.96)  
+🎓 **B.Tech in Information Technology Graduate (2022-2026)** | Kingston Engineering College (CGPA: 9)  
 💼 Current: **Backend Developer Intern** at **HFactor, Chennai**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=react&logoColor=white)](https://mbarathportfolio.netlify.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mbarathm345672005&color=0ea5e9&style=for-the-badge)
